@@ -1,9 +1,11 @@
 package main
 
 import (
-	"github.com/assassinen/go_coursera/hello/hello"
+	"fmt"
+	//"github.com/assassinen/go_coursera/hello"
 )
 
 func main() {
-	hello()
+	//Hello()
+	fmt.Println("Hello, Go!")
 }
